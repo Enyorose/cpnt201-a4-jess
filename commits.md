@@ -6,4 +6,4 @@
 - commit to Alex [4](https://github.com/byung1211/cpnt201-a4-byung/pull/2/commits/ab09fd48fcfc37160e73d0f5d3bd62b2065b93cc)
 - commit to James [5](https://github.com/Archangel767/cpnt201-a4-james/pull/3/commits/885bfd6c0670659a873203160d3892f03ba9c2d3)
 - create a merging error [6](https://github.com/Enyorose/cpnt262-a4-jess/commit/9dc14daf3661ffe007397f9c2322aa7003a19a13)
-- adding my commit.md file to my Repo [7]()
+- adding my commit.md file to my Repo [7](https://github.com/Enyorose/cpnt201-a4-jess/commit/89e85b555172aaa742c7d16c9323b720087eb23b)
